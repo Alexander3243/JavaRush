@@ -1,2 +1,2 @@
 # JavaRush
-Training
+Training python
